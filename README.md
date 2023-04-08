@@ -1,4 +1,4 @@
-# Loop Assignment
+# Django backend project.
 
 ## Features
 - This project allows you to get the report of all the restaurants and their respective uptimes and downtimes for the past hour, past day and past week respectively.
